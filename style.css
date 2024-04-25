@@ -5,7 +5,7 @@
 }
 
 .container{
-    background-image: url('/background.avif');
+    background-image: url('./background.avif');
      background-size: cover;
      background-repeat: no-repeat;
      background-position: center center;
